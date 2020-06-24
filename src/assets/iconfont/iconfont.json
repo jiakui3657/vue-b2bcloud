@@ -1,0 +1,93 @@
+{
+  "id": "1903925",
+  "name": "vue-b2bcloud",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "689221",
+      "name": "财务 人民币 支付",
+      "font_class": "caiwurenminbizhifu",
+      "unicode": "e7d1",
+      "unicode_decimal": 59345
+    },
+    {
+      "icon_id": "867064",
+      "name": "收银",
+      "font_class": "shouyin",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "1127389",
+      "name": "数据",
+      "font_class": "data",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "1638357",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "3050832",
+      "name": "商城",
+      "font_class": "mall",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "4539375",
+      "name": "库存",
+      "font_class": "kucun",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "7738003",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7872204",
+      "name": "应用中心",
+      "font_class": "yingyongzhongxin",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "8132063",
+      "name": "市场",
+      "font_class": "shichang",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "8655879",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "10262050",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "11125229",
+      "name": "会员",
+      "font_class": "7",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    }
+  ]
+}
